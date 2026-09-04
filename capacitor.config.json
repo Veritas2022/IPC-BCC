@@ -1,0 +1,20 @@
+{
+  "appId": "cd.bcc.collecteipc",
+  "appName": "Collecte BCC",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1200,
+      "backgroundColor": "#0B2E4F",
+      "androidScaleType": "CENTER_CROP",
+      "showSpinner": false
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#0B2E4F"
+    }
+  }
+}
